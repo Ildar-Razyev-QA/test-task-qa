@@ -1,0 +1,22 @@
+{
+  "name": "test-task-qa",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Ildar-Razyev-QA/test-task-qa.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Ildar-Razyev-QA/test-task-qa/issues"
+  },
+  "homepage": "https://github.com/Ildar-Razyev-QA/test-task-qa#readme",
+  "devDependencies": {
+    "@playwright/test": "^1.55.1",
+    "@types/node": "^24.6.1"
+  }
+}
